@@ -1,1 +1,2 @@
-# MyFirstRepository-
+# Начало
+Это начало моего знакомства с Github
